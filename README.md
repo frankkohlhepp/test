@@ -1,2 +1,2 @@
 # test
-testchangemaster
+testchangeresolved
